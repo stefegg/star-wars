@@ -19,7 +19,7 @@
    text-align: center;
    margin: 0px 0px 0px 0px;
    border: 20px solid red;
-   font-family: 'Open Sans Condensed', sans-serif;
+   font-family: 'Russo One', sans-serif;
    font-size: 5vw;
  }
 
@@ -29,7 +29,7 @@
    text-align: center;
    margin: 0px 0px 0px 0px;
    border: 20px solid gray;
-   font-family: 'Open Sans Condensed', sans-serif;
+   font-family: 'Anton', sans-serif;
    font-size: 5vw;
  }
 
@@ -158,6 +158,7 @@
     width: 90%;
     font-size: 35px;
     margin: 0 3% 0 3%;
+    font-family: 'Anton', sans-serif;
 }
 
 
@@ -166,6 +167,7 @@
     width: 90%;
     font-size: 35px;
     margin: 0 3% 0 3%;
+    font-family: 'Russo One', sans-serif;
 }
 
  .top {
